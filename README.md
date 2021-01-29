@@ -1,2 +1,2 @@
 # git_practice
-github practice
+git practice
